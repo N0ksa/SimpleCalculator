@@ -20,7 +20,8 @@ Using the Jetpack Compose Calculator App is straightforward:
 
 ## Demo
 
-![1-ezgif com-optimize](https://github.com/N0ksa/SimpleCalculator/assets/118447696/8e10a1db-009d-41f8-8243-1d49b6baa12a)
+<img src="https://github.com/N0ksa/SimpleCalculator/assets/118447696/8e10a1db-009d-41f8-8243-1d49b6baa12a" width="400">
+
 
 ## License
 
