@@ -2,7 +2,7 @@
 
 ## Description
 
-The Jetpack Compose Calculator App is a simple calculator application built using Kotlin and Jetpack Compose. This application serves as a practical learning tool primarily focused on exploring the capabilities of Jetpack Compose, Google's modern UI toolkit for building native Android apps. With its minimalist design and straightforward functionality, this app provides an ideal platform for developers to learn and experiment with Jetpack Compose concepts while performing basic mathematical operations.
+The Jetpack Compose Calculator App is a simple calculator application built using Kotlin and Jetpack Compose. This application serves as a practical learning tool primarily focused on exploring the capabilities of Jetpack Compose, Google's modern UI toolkit for building native Android apps.
 
 ### Features:
 
